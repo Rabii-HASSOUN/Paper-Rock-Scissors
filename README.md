@@ -1,2 +1,2 @@
 # Paper-Rock-Scissors
-My first game using HTML, CSS and JavaScript
+My first game using HTML and JavaScript
